@@ -1,4 +1,3 @@
-# Code for Turn-Aware LSTM Paper
 
 This repository contains the code and supplementary materials for the manuscript:
 
@@ -10,4 +9,3 @@ This repository contains the code and supplementary materials for the manuscript
 
 All scripts and notebooks correspond to the experiments reported in the paper,  
 including sensitivity analysis and LSTM model training.
-# Turn-Aware-LSTM_SUPP
