@@ -68,7 +68,7 @@ def plot_metric_grid(metric: str, save_path: Path):
             offset = (j - (len(available_models) - 1) / 2.0) * bar_width
             ax.bar(x + offset, vals[:, j], width=bar_width, label=mod)
 
-        ax.set_title(f"{metric} @ {int(H)}s")
+        ax.set_title(f"{metric} at {int(H)}s")
         ax.set_xticks(x, ["straight", "left", "right"])
         ax.grid(axis="y", linestyle="--", alpha=0.35)
 

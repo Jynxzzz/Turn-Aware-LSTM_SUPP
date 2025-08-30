@@ -1,7 +1,8 @@
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
 from pathlib import Path
+
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
 
 CSV_PATH = Path("results_overall.csv")
 OUT_DIR = Path("figs")
@@ -35,7 +36,6 @@ def plot_metric(metric: str, ylabel: str, fname: str):
     )
     plt.xlabel("Prediction horizon")
     plt.ylabel(ylabel)
-    plt.title(f"{metric} vs. horizon (overall)")
     plt.grid(True, linestyle="--", alpha=0.4)
     plt.legend()
     plt.tight_layout()
