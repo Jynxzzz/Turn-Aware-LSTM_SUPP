@@ -3,7 +3,7 @@
 **Xingnan Yu**, Yue Zhang
 *Advances in Transportation Studies (ATS), 2025*
 
-[[Paper]](https://obsicat.com/assets/turn-aware-lstm-paper.pdf) [[Project Page]](https://obsicat.com/turn-aware-lstm.html)
+[[Paper]](https://obsicat.com/assets/ATS2025_069_R1_Final_Xingnan_Zhou.pdf) [[Project Page]](https://obsicat.com/turn-aware-lstm.html)
 
 ---
 
