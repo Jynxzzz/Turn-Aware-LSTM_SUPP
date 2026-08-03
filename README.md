@@ -116,15 +116,16 @@ python plot_maneuver.py                # Generate per-maneuver comparison plots
 ## Citation
 
 ```bibtex
-@article{yu2025turnaware,
+@article{zhou2026turnaware,
   title={Turn-Aware LSTM Model for Vehicle Trajectory Forecasting},
-  author={Yu, Xingnan and Zhang, Yue},
+  author={Zhou, Xingnan and Alecsandru, Ciprian and Bashbaghi, Saman and Jeong, Yunseo and Chen, Ye},
   journal={Advances in Transportation Studies},
-  year={2025},
-  note={Manuscript ID: ATS2025\_069}
+  volume={LXVIII},
+  pages={381--396},
+  year={2026}
 }
 ```
 
 ## License
 
-This code is released for academic research purposes. Please cite our paper if you use this code in your work.
+This code is released under the [MIT License](LICENSE). Please cite our paper if you use this code in your work.
