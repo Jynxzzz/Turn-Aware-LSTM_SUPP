@@ -1,9 +1,9 @@
 # Turn-Aware LSTM Model for Vehicle Trajectory Forecasting
 
-**Xingnan Yu**, Yue Zhang
-*Advances in Transportation Studies (ATS), 2025*
+**Xingnan Zhou**, Ciprian Alecsandru, Saman Bashbaghi, Yunseo Jeong, Ye Chen
+*Advances in Transportation Studies (ATS), Vol. LXVIII, pp. 381&ndash;396, April 2026*
 
-[[Paper]](https://obsicat.com/assets/ATS2025_069_R1_Final_Xingnan_Zhou.pdf) [[Project Page]](https://obsicat.com/turn-aware-lstm.html)
+Published in a subscription journal &mdash; full text available via ATS. [[Project Page]](https://obsicat.com/turn-aware-lstm.html)
 
 ---
 
